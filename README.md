@@ -6,30 +6,56 @@
 ## Asadito.Js React for Beginners
 
 [00 - Configurando el entorno](#configurando-el-entorno)
+
 [01 - Estructura del proyecto](#estructura-del-proyecto)
+
 [02 - Export e import](#export-e-import)
+
 [03 - Componentes funcionales](#componentes-funcionales)
+
 [04 - JSX](#jsx)
+
 [05 - Estilando un componente](#estilando-un-componente)
+
 [06 - Props](#props)
+
 [07 - Componentes hijos](#componentes-hijos)
+
 [08 - Listas de componentes](#listas-de-componentes)
+
 [09 - Condicionales en JSX](#condicionales-en-jsx)
+
 [10 - Personalizando un componente](#personalizando-un-componente)
+
 [11 - Iconos](#iconos)
+
 [12 - Renderizado condicional](#renderizado-condicional)
+
 [13 - Componentes de clase](#componentes-de-clase)
-[14 - Métodos y eventos](#metodos-y-eventos)
+
+[14 - Métodos y eventos](#métodos-y-eventos)
+
 [15 - Estado](#estado)
-[16 - setState: arrays y objectos](#setState)
-[17 - Elevando el estado](#elevando-el-estado))
+
+[16 - setState](#setstate)
+
+[17 - Elevando el estado](#elevando-el-estado)
+
 [18 - Elevando el estado - Ejemplo](#elevando-el-estado-ejemplo)
+
 [19 - Inputs controlados](#inputs-controlados)
+
 [20 - Prop drilling](#pop-drilling)
+
 [21 - Contexto](#contexto)
-[22 - Contexto (Patrón)](#contexto-patron)
+
+[22 - Contexto Patrón](#contexto-patrón)
+
 [23 - Ciclo de vida](#ciclo-de-vida)
+
 [24 - Fetch en React](#fetch-en-react)
+
+[25 - Videos explicativos Workshop por Cristhian Duran](#videos-explicativos)
 
 
 ## Configurando el entorno
@@ -3280,6 +3306,8 @@ class UsersInfoContainer extends React.Component {
   }
 }
 ```
+
+### Videos explicativos
 
 [![Workshop for Beginners. Videos explicativos del coordinador Cristhian Duran](https://pbs.twimg.com/media/EIS97poXkAgJWIB.jpg)](https://www.youtube.com/watch?v=gTlfsOCib0I&list=PLlhKBGO4zX44gXJATxBpNiIjAvOZZPGE8)
 [Explicación de Cristhian Duran, coordinador del evento](https://www.youtube.com/watch?v=gTlfsOCib0I&list=PLlhKBGO4zX44gXJATxBpNiIjAvOZZPGE8)
