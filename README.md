@@ -3311,3 +3311,6 @@ class UsersInfoContainer extends React.Component {
 
 [![Workshop for Beginners. Videos explicativos del coordinador Cristhian Duran](https://pbs.twimg.com/media/EIS97poXkAgJWIB.jpg)](https://www.youtube.com/watch?v=gTlfsOCib0I&list=PLlhKBGO4zX44gXJATxBpNiIjAvOZZPGE8)
 [Explicación de Cristhian Duran, coordinador del evento](https://www.youtube.com/watch?v=gTlfsOCib0I&list=PLlhKBGO4zX44gXJATxBpNiIjAvOZZPGE8)
+
+
+[Créditos: Pablo Hoc](https://twitter.com/pablohoc)
